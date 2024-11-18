@@ -19,7 +19,7 @@ const CountUpStats: React.FC<Props> = ({ number1, number2, number3 }) => {
     <>
     <section   ref={ref}
     className="mx-auto w-screen max-w-[1200px]
-    text-white">
+    text-black">
          <h2 className="text-center px-4 font-bold text-2xl sm:text-3xl
          my-12">Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, iusto?</h2>
          <p className="font-semibold px-4">
