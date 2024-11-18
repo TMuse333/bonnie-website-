@@ -118,7 +118,7 @@ const Footer2:React.FC<props> = ({
         id={id}
          className="w-screen relative flex flex-col
         items-center justify-center mx-auto  my-12
-        text-white md:w-[90vw]" >
+        text-black md:w-[90vw]" >
             <h6 className="text-3xl sm:text-4xl font-semibold
             mb-8">Site map</h6>
             

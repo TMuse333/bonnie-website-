@@ -124,11 +124,12 @@ const COLORS_TOP = ["#13FFAA", "#1E67C6", "#CE84CF", "#DD335C"];
             "
             />
 
-<p className="my-6 w-[80vw] max-w-[1000px] text-left text-base leading-relaxed md:text-lg md:leading-relaxed sm:text-lg md:text-xl font-medium">
-  My focus is on making your experience as efficient, rewarding, and enjoyable as possible. I understand how important and potentially difficult buying, selling, or leasing a home or commercial property can be.
-  <br/> With my proven track record of success and unique approach to service, I am here to help you realize your goals. My ultimate objective is to make your home your best investment, while providing peace of mind throughout the entire process.
-</p>
-
+        <p className="my-6 w-[80vw] max-w-[1000px] text-left  text-base leading-relaxed md:text-lg md:leading-relaxed
+        sm:text-lg md:text-xl font-medium">
+       Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora provident dolores praesentium reprehenderit natus unde, sint cum delectus eligendi autem?
+<br/><br/>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum cupiditate commodi corrupti, nesciunt consequuntur tempora animi recusandae id! Quo facilis ipsam impedit.
+        </p>
        
 
 <section className="flex">
