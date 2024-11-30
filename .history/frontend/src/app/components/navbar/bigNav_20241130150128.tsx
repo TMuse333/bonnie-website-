@@ -50,58 +50,56 @@ interface SubMenuProps {
       listSubMenu: false,
     },
  
-    {
-      name: 'View listings',
-      secondaryLinks: [
-        {
-          name: 'View Listings',
-          destination: 'https://www.remaxnova.com/team/realtors/bonnie-hutchins-7616',
-        },
-        // {
-        //     name:'Professional Achievements',
-        //     destination:''
-        // },
-        // {
-        //     name:'Personal marketing program',
-        //     destination:''
-        // }
-      
-      ],
-      listSubMenu: false,
-      subMenuSrc:trophy.src,
-      subMenuAlt:'Two hands',
-      desktopDescription:'Get to know me on a personal level and learn about my career and other programs'
-    },
-   
     // {
-    //   name: 'Guided Success',
+    //   name: 'Meet Bonnie',
     //   secondaryLinks: [
     //     {
-    //         name:'Buying a home',
-    //         destination:'/best-web-design-halifax'
+    //       name: 'About Bonnie',
+    //       destination: '/online-food-ordering-system',
     //     },
     //     {
-    //       name: 'Selling a home',
-    //       destination: '/long-term-success',
+    //         name:'Professional Achievements',
+    //         destination:''
     //     },
     //     {
-    //       name: 'Our Process',
-    //       destination: '/process',
-    //     },
+    //         name:'Personal marketing program',
+    //         destination:''
+    //     }
+      
     //   ],
     //   listSubMenu: true,
     //   subMenuSrc:trophy.src,
     //   subMenuAlt:'Two hands',
-    //   desktopDescription:'Learn the process of buying or selling a home with a realtor and how I ensure you get the best deal.'
+    //   desktopDescription:'Get to know me on a personal level and learn about my career and other programs'
     // },
+   
+    {
+      name: 'Guided Success',
+      secondaryLinks: [
+        {
+            name:'Buying a home',
+            destination:'/best-web-design-halifax'
+        },
+        {
+          name: 'Selling a home',
+          destination: '/long-term-success',
+        },
+        {
+          name: 'Our Process',
+          destination: '/process',
+        },
+      ],
+      listSubMenu: true,
+      subMenuSrc:trophy.src,
+      subMenuAlt:'Two hands',
+      desktopDescription:'Learn the process of buying or selling a home with a realtor and how I ensure you get the best deal.'
+    },
     {
       name: 'Contact',
      
       destination:'/lets-work',
       listSubMenu: false,
     },
-
-   
     // {
     //   name: 'Studio',
      

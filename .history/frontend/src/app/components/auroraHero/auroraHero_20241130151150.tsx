@@ -176,25 +176,15 @@ I have been in the real estate industry for over 30 years and hold the designati
           {/* <FiArrowRight className="transition-transform group-hover:-rotate-45 group-active:-rotate-12" /> */}
         </motion.button>
         </Link>
-
+       <p> (902) 488-2820</p>
+        <p>Contact information</p>
+<p>BonnieHutchins7@gmail.com </p>
+<p>397 Bedford Highway Halifax,</p>
+<p> Nova Scotia Canada B3M 2L3</p>
 
 
 
         </section>
-        <p className="mb-2 bg-gradient-to-br from-white to-gray-400 bg-clip-text
-        mt-4 font-bold
-        text-xl sm:text-2xl">Contact information</p>
-        <section className="flex flex-col mt-2
-        w-screen justify-center items-center
-        mx-auto md:flex-row md:justify-around">
-
-       
-<p className="mb-2"> (902) 488-2820</p>
- 
-<p className="mb-2">BonnieHutchins7@gmail.com </p>
-<p className="mb-2">397 Bedford Highway Halifax,</p>
-<p className="mb-2"> Nova Scotia Canada B3M 2L3</p>
-</section>
    
       </div>
 

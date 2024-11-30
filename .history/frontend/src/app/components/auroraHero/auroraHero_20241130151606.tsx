@@ -183,7 +183,7 @@ I have been in the real estate industry for over 30 years and hold the designati
         </section>
         <p className="mb-2 bg-gradient-to-br from-white to-gray-400 bg-clip-text
         mt-4 font-bold
-        text-xl sm:text-2xl">Contact information</p>
+        text-xl">Contact information</p>
         <section className="flex flex-col mt-2
         w-screen justify-center items-center
         mx-auto md:flex-row md:justify-around">

@@ -190,20 +190,8 @@ export const contactCard = {
   src:'/bonnie.jpg',
   alt:'Bonnie',
   name:'Bonnie Hutchins',
-  title:"REALTOR®, FR\n"+
-  "REMAX NOVA",
-  description:'',
-  quote:'',
-  phone:'(902) 488-2820',
-  email:'BonnieHutchins7@gmail.com\n'+
-  "397 Bedford Highway\n"+
-  "Halifax, Nova Scotia\n"+
-  "Canada B3M 2L3",
-  socials:[{
-    src:'',
-    destination:'',
-    alt:''
-  }]
+  description:'397 Bedford Highway',
+  
 
 }
   

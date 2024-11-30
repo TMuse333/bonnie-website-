@@ -132,11 +132,12 @@ const Footer2:React.FC<props> = ({
          className="w-screen relative flex flex-col
         items-center justify-center mx-auto  my-12
         text-white md:w-[90vw]" >
-            {/* <h6 className="text-3xl sm:text-4xl font-semibold
-            mb-8">Site map</h6> */}
+            <h6 className="text-3xl sm:text-4xl font-semibold
+            mb-8">Site map</h6>
             
 <ul className="flex flex-col mx-auto
-
+sm:grid sm:grid-cols-2 
+md:grid-cols-3 lg:grid-cols-4
             md:flex-row w-full mt-6
               w-full text-center
             justify-center items-center

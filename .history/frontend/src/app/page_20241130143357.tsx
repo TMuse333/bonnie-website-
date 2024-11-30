@@ -23,7 +23,7 @@ export default function Home() {
     excludedLink=""
     />
     <AuroraHero/>
-    {/* <CountUpStats
+    <CountUpStats
     number1="45"
     number2="15.5"
     number3="20"/>
@@ -34,7 +34,7 @@ export default function Home() {
 
     <DisplayBoxes
     data={displayBox1}
-    /> */}
+    />
 
     {/* <ImageTextBox
     {...imageTextBox1}
@@ -45,7 +45,7 @@ export default function Home() {
     reverse
     /> */}
 
-{/* <ExperienceCard
+<ExperienceCard
     {...experienceCard3}
     />
 
@@ -66,19 +66,19 @@ export default function Home() {
     bgImage
     />
 
-  
+    <ContactCard
+    {...contactCard}
+    />
 
     <Closer
     {...closingStatement}
     />
 
-<ContactCard
-    {...contactCard}
-    />
+
 
     <Footer2
     excludedLink=""
-    /> */}
+    />
 
 
    </main>

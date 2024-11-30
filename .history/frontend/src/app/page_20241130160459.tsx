@@ -45,7 +45,7 @@ export default function Home() {
     reverse
     /> */}
 
-{/* <ExperienceCard
+<ExperienceCard
     {...experienceCard3}
     />
 
@@ -78,7 +78,7 @@ export default function Home() {
 
     <Footer2
     excludedLink=""
-    /> */}
+    />
 
 
    </main>

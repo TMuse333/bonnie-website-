@@ -15,7 +15,6 @@ import building from '../../../../public/hero-building.jpeg'
 import Image from "next/image";
 import remax from '../../../../public/remax-balloon.png'
 import { useGeneralContext } from "@/context/context";
-import Link from "next/link";
 
 
 const COLORS_TOP = ["#13FFAA", "#1E67C6", "#CE84CF", "#DD335C"];
@@ -152,12 +151,9 @@ I have been in the real estate industry for over 30 years and hold the designati
           }}
           className="group bg-black relative mr-4 flex w-fit items-center  gap-1.5 rounded-full bg-gray-950/10 px-4 py-2 text-gray-50 transition-colors hover:bg-gray-950/50"
         >
-         Contact
+          Get in touch
           {/* <FiArrowRight className="transition-transform group-hover:-rotate-45 group-active:-rotate-12" /> */}
         </motion.button>
-        
-        <Link
-        href='https://www.remaxnova.com/team/realtors/bonnie-hutchins-7616'>
         <motion.button
         onClick={()=>scrollToElementById('closer')}
           style={{
@@ -175,26 +171,7 @@ I have been in the real estate industry for over 30 years and hold the designati
          View listings
           {/* <FiArrowRight className="transition-transform group-hover:-rotate-45 group-active:-rotate-12" /> */}
         </motion.button>
-        </Link>
-
-
-
-
         </section>
-        <p className="mb-2 bg-gradient-to-br from-white to-gray-400 bg-clip-text
-        mt-4 font-bold
-        text-xl sm:text-2xl">Contact information</p>
-        <section className="flex flex-col mt-2
-        w-screen justify-center items-center
-        mx-auto md:flex-row md:justify-around">
-
-       
-<p className="mb-2"> (902) 488-2820</p>
- 
-<p className="mb-2">BonnieHutchins7@gmail.com </p>
-<p className="mb-2">397 Bedford Highway Halifax,</p>
-<p className="mb-2"> Nova Scotia Canada B3M 2L3</p>
-</section>
    
       </div>
 

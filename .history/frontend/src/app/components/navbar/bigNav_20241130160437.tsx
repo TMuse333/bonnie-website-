@@ -101,7 +101,12 @@ interface SubMenuProps {
       listSubMenu: false,
     },
 
-   
+    {
+      name: 'View listings ',
+     
+      destination:'/lets-work',
+      listSubMenu: false,
+    },
     // {
     //   name: 'Studio',
      

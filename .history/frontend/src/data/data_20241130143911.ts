@@ -190,7 +190,7 @@ export const contactCard = {
   src:'/bonnie.jpg',
   alt:'Bonnie',
   name:'Bonnie Hutchins',
-  title:"REALTOR®, FR\n"+
+  title:"REALTOR®, FR"+
   "REMAX NOVA",
   description:'',
   quote:'',

@@ -190,8 +190,8 @@ export const contactCard = {
   src:'/bonnie.jpg',
   alt:'Bonnie',
   name:'Bonnie Hutchins',
-  title:"REALTOR®, FR\n"+
-  "REMAX NOVA",
+  title:"REALTOR®, FRI
+  REMAX NOVA",
   description:'',
   quote:'',
   phone:'(902) 488-2820',

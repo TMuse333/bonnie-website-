@@ -57,14 +57,14 @@ interface SubMenuProps {
           name: 'View Listings',
           destination: 'https://www.remaxnova.com/team/realtors/bonnie-hutchins-7616',
         },
-        // {
-        //     name:'Professional Achievements',
-        //     destination:''
-        // },
-        // {
-        //     name:'Personal marketing program',
-        //     destination:''
-        // }
+        {
+            name:'Professional Achievements',
+            destination:''
+        },
+        {
+            name:'Personal marketing program',
+            destination:''
+        }
       
       ],
       listSubMenu: false,
@@ -101,7 +101,12 @@ interface SubMenuProps {
       listSubMenu: false,
     },
 
-   
+    {
+      name: 'View listings ',
+     
+      destination:'/lets-work',
+      listSubMenu: false,
+    },
     // {
     //   name: 'Studio',
      
