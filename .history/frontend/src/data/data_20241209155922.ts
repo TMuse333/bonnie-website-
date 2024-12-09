@@ -2,7 +2,7 @@
 
 export const experienceCard1 = {
     title: "Helping Clients Achieve Their Dream Homes",
-    src: "/home.jpeg", // Replace with actual image path
+    src: "/helpful.jpg", // Replace with actual image path
     alt: "Realtor helping clients",
     description: "With over 10 years of experience, Bonnie Hutchins has successfully guided hundreds of clients through the home buying and selling process, ensuring a smooth, stress-free experience. From first-time buyers to seasoned investors, Bonnie has a proven track record of exceeding client expectations and achieving their goals.",
     aspects: [
@@ -37,7 +37,7 @@ export const experienceCard2 = {
 
   export const experienceCard3 = {
     title: "Bonnie's Seamless Process: Making Your Real Estate Journey Easy",
-    src: "/help.webp", // Use a relevant image for the card
+    src: "/help.jpg", // Use a relevant image for the card
     alt: "Bonnie Hutchins Guiding Clients Through the Process",
     description: "Bonnie Hutchins ensures that every step of your real estate journey is simple and stress-free. From the initial consultation to closing, Bonnie's transparent, client-focused process is designed to minimize hassle and maximize your satisfaction. Whether you're buying or selling, you can count on Bonnie to guide you smoothly through each phase of the process, making sure you feel informed, confident, and supported every step of the way.",
     aspects: [

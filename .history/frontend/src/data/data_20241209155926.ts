@@ -2,7 +2,7 @@
 
 export const experienceCard1 = {
     title: "Helping Clients Achieve Their Dream Homes",
-    src: "/home.jpeg", // Replace with actual image path
+    src: "/helpful.jpg", // Replace with actual image path
     alt: "Realtor helping clients",
     description: "With over 10 years of experience, Bonnie Hutchins has successfully guided hundreds of clients through the home buying and selling process, ensuring a smooth, stress-free experience. From first-time buyers to seasoned investors, Bonnie has a proven track record of exceeding client expectations and achieving their goals.",
     aspects: [
