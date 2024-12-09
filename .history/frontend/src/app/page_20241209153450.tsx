@@ -14,9 +14,7 @@ import Closer from "./components/closer/closer";
 import BigNav from "./components/navbar/bigNav";
 import Footer2 from "./components/footer/footer";
 import ContactCard from "./components/contactCard/contactCard";
-
 export default function Home() {
-
   return (
     <>
    
@@ -25,7 +23,7 @@ export default function Home() {
     excludedLink=""
     />
     <AuroraHero/>
-    <CountUpStats
+    {/* <CountUpStats
     number1="45"
     number2="15.5"
     number3="20"/>
@@ -36,11 +34,18 @@ export default function Home() {
 
     <DisplayBoxes
     data={displayBox1}
+    /> */}
+
+    {/* <ImageTextBox
+    {...imageTextBox1}
     />
 
+    <ImageTextBox
+    {...imageTextBox2}
+    reverse
+    /> */}
 
-
- <ExperienceCard
+{/* <ExperienceCard
     {...experienceCard3}
     />
 
@@ -73,7 +78,7 @@ export default function Home() {
 
     <Footer2
     excludedLink=""
-    /> 
+    /> */}
 
 
    </main>

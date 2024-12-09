@@ -14,9 +14,8 @@ import Closer from "./components/closer/closer";
 import BigNav from "./components/navbar/bigNav";
 import Footer2 from "./components/footer/footer";
 import ContactCard from "./components/contactCard/contactCard";
-
 export default function Home() {
-
+  
   return (
     <>
    

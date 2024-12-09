@@ -14,9 +14,7 @@ import Closer from "./components/closer/closer";
 import BigNav from "./components/navbar/bigNav";
 import Footer2 from "./components/footer/footer";
 import ContactCard from "./components/contactCard/contactCard";
-
 export default function Home() {
-
   return (
     <>
    
@@ -38,7 +36,14 @@ export default function Home() {
     data={displayBox1}
     />
 
+    <ImageTextBox
+    {...imageTextBox1}
+    />
 
+    <ImageTextBox
+    {...imageTextBox2}
+    reverse
+    />
 
  <ExperienceCard
     {...experienceCard3}
